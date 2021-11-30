@@ -1,3 +1,8 @@
+# Atividade em dupla:
+* Ézio Alves
+* Kaleb Zimmermann
+
+
 # Machine-Learning
 
 <p>O que as bibliotecas prontas para rodar algoritmos de “machine learning” fazem e como fazem, abordaremos isso neste conteúdo.</p>
